@@ -1,0 +1,28 @@
+2025-10-15 00:43:20,494 - INFO - package: mysql.connector.plugins
+2025-10-15 00:43:20,494 - INFO - plugin_name: caching_sha2_password
+2025-10-15 00:43:20,494 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-10-15 00:43:20,589 - INFO - Tabela 'clientes' criada no destino.
+2025-10-15 00:43:20,612 - INFO - 3 registros inseridos em 'clientes'.
+2025-10-15 00:43:20,673 - INFO - Tabela 'estoque' criada no destino.
+2025-10-15 00:43:20,687 - INFO - 3 registros inseridos em 'estoque'.
+2025-10-15 00:43:20,750 - INFO - Tabela 'fornecedores' criada no destino.
+2025-10-15 00:43:20,762 - INFO - 2 registros inseridos em 'fornecedores'.
+2025-10-15 00:43:20,816 - INFO - Tabela 'pedidos' criada no destino.
+2025-10-15 00:43:20,829 - INFO - 3 registros inseridos em 'pedidos'.
+2025-10-15 00:43:20,886 - INFO - Tabela 'produtos' criada no destino.
+2025-10-15 00:43:20,901 - INFO - 3 registros inseridos em 'produtos'.
+2025-10-15 00:45:18,291 - ERROR - Erro na migração: 1062 (23000): Duplicate entry '1' for key 'clientes.PRIMARY'
+2025-10-15 00:46:27,174 - ERROR - Erro na migração: 1062 (23000): Duplicate entry '1' for key 'clientes.PRIMARY'
+2025-10-15 00:46:35,115 - INFO - package: mysql.connector.plugins
+2025-10-15 00:46:35,116 - INFO - plugin_name: caching_sha2_password
+2025-10-15 00:46:35,116 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-10-15 00:46:35,181 - INFO - 103 registros inseridos em 'clientes'.
+2025-10-15 00:46:35,193 - INFO - 3 registros inseridos em 'estoque'.
+2025-10-15 00:46:35,206 - INFO - 2 registros inseridos em 'fornecedores'.
+2025-10-15 00:46:35,217 - INFO - 3 registros inseridos em 'pedidos'.
+2025-10-15 00:46:35,229 - INFO - 3 registros inseridos em 'produtos'.
+2025-10-15 00:48:00,719 - INFO - 203 registros inseridos em 'clientes'.
+2025-10-15 00:48:00,730 - INFO - 3 registros inseridos em 'estoque'.
+2025-10-15 00:48:00,744 - INFO - 2 registros inseridos em 'fornecedores'.
+2025-10-15 00:48:00,755 - INFO - 3 registros inseridos em 'pedidos'.
+2025-10-15 00:48:00,766 - INFO - 3 registros inseridos em 'produtos'.
